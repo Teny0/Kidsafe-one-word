@@ -1,0 +1,6 @@
+{
+  "name": "KidSafe OneWord",
+  "description": "One Word In. Safe Parenting Out. Instant evidence-informed child safety guides for parents of children aged 1–7 years.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
